@@ -11,4 +11,4 @@ Este script tem como objetivo extrair todas as URLs únicas a partir do site pri
 ## 🛠️ Requisitos
 
 - Python 3.x
-- Bib
+- Biblioteca necessária para o `scraper.py` (caso use `requests`, `BeautifulSoup` ou `Selenium`)
